@@ -23,3 +23,27 @@
 			 line-height:72px;
 			color:#ffffff;
 			}
+			
+			/* Image */
+			nav a img{
+			display:inline-block;
+			height:72px;
+			margin-top:12px;
+			margin-bottom:12px;
+			margin-right:12px;
+			margin-left:12px;
+			}
+			
+			/* Body */
+			body{
+			margin-left:0px;
+			margin-top:0px;
+			margin-right:0px;
+			}
+
+			body{
+			font-family:'Lobster Two', display;
+			background-color:#1c1c1c;
+			color:#ffffff;
+			}
+			}
